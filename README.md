@@ -1,1 +1,2 @@
-# Trie_Hangman
+# Trie Hangman
+Hangman game implemented using Trie data structure
